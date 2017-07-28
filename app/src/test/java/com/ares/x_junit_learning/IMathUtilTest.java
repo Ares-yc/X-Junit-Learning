@@ -18,7 +18,7 @@ import org.junit.Test;
 
 public class IMathUtilTest {
 
-    IMathUtil iMathUtil;
+    private IMathUtil iMathUtil;
 
     @Before
     public void setUp() {
